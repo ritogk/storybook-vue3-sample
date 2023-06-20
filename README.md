@@ -16,4 +16,5 @@ yarn test-storybook --url http://localhost:6006
 ## 参考
 https://zenn.dev/sa2knight/books/storybook-7-with-vue-3/viewer/preview_js  
 https://ja.vuejs.org/guide/quick-start.html  
-https://storybook.js.org/docs/vue/writing-stories/introduction
+https://storybook.js.org/docs/vue/writing-stories/introduction  
+https://www.npmjs.com/package/@storybook/vue3-vite
